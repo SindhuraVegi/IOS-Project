@@ -1,0 +1,15 @@
+?IOS Project
+
+ContactList
+
+Naga Sindhura Devi VEGI
+
+Color 1: rgb(13,141,147)
+
+Color 2: rgb(15,255,165)
+
+Color 3: rgb(0,0,0)
+
+Color 4: rgb(0,62,80)-40%
+
+            : rgb(0,62,80)-10%
